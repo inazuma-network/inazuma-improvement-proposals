@@ -62,6 +62,7 @@ release and the chain passed the activation block.
 | Number | Title | Status |
 | --- | --- | --- |
 | [1](proposals/inazip-1.md) | INAZIP purpose and process | Live |
+| — | [Staged verification and enforcement of ML-DSA-65 co-signatures](proposals/inazip-draft-pq-enforcement.md) | Draft |
 
 ## Related repositories
 
